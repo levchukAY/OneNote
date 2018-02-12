@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneNote</string>
+    <string name="action_settings">Настройки</string>
+    <string name="enter_title">Введите название</string>
+    <string name="title_quick_notes">Заметки на полях</string>
+</resources>

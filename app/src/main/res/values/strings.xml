@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OneNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_title">Enter title</string>
+    <string name="quick_notes" translatable="false">QUICK NOTES</string>
+    <string name="title_one_note" translatable="false">ONENOTE</string>
+    <string name="title_quick_notes">Quick Notes</string>
+</resources>
