@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/white"
-    tools:context="com.artiomlevchuk.dbflow.TaskDetailsActivity">
+    tools:context="com.artiomlevchuk.onenote.ui.TaskDetailsActivity">
 
     <EditText
         android:id="@+id/title_edit_text"

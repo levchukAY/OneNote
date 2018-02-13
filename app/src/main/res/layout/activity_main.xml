@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.artiomlevchuk.dbflow.MainActivity">
+    android:background="@android:color/white"
+    tools:context="com.artiomlevchuk.onenote.ui.MainActivity">
 
     <TextView
         android:id="@+id/textView"
@@ -48,10 +49,12 @@
 
     <View
         android:id="@+id/view"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="45dp"
         android:background="@color/color_toolbar"
-        app:layout_constraintBottom_toBottomOf="parent" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
         android:id="@+id/add_note_image_view"
