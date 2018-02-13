@@ -1,4 +1,4 @@
-package com.artiomlevchuk.onenote.data;
+package com.artiomlevchuk.onenote.data.task;
 
 import com.raizlabs.android.dbflow.annotation.Database;
 

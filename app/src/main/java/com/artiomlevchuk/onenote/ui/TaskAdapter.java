@@ -1,4 +1,4 @@
-package com.artiomlevchuk.onenote;
+package com.artiomlevchuk.onenote.ui;
 
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -7,7 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.artiomlevchuk.onenote.data.Task;
+import com.artiomlevchuk.onenote.R;
+import com.artiomlevchuk.onenote.data.task.Task;
 
 import java.util.ArrayList;
 import java.util.List;

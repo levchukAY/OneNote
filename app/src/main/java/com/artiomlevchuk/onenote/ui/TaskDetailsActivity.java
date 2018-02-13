@@ -1,4 +1,4 @@
-package com.artiomlevchuk.onenote;
+package com.artiomlevchuk.onenote.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,8 +6,9 @@ import android.util.Log;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.artiomlevchuk.onenote.data.Task;
-import com.artiomlevchuk.onenote.data.Task_Table;
+import com.artiomlevchuk.onenote.R;
+import com.artiomlevchuk.onenote.data.task.Task;
+import com.artiomlevchuk.onenote.data.task.Task_Table;
 import com.raizlabs.android.dbflow.sql.language.SQLite;
 
 import java.util.Calendar;

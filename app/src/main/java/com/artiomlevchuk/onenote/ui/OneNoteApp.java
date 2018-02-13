@@ -1,4 +1,4 @@
-package com.artiomlevchuk.onenote;
+package com.artiomlevchuk.onenote.ui;
 
 import android.app.Application;
 
